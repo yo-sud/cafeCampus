@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CafeCampus</string>
+    <string name="titulo_menu">Menú de Pedidos</string>
+    <string name="titulo_panel">Panel de Administración</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="lbl_correo">Correo</string>
+    <string name="lbl_contrasena">Contraseña</string>
+    <string name="lbl_estudiante">Estudiante</string>
+    <string name="lbl_administrador">Administrador</string>
+    <string name="lbl_salir">Salir</string>
+    <string name="lbl_producto">Producto</string>
+    <string name="lbl_precio">Precio</string>
+    <string name="lbl_disponibilidad">Disponibilidad</string>
+    <string name="lbl_estado">Estado</string>
+    <string name="lbl_agregar">Agregar</string>
+    <string name="lbl_editar">Editar</string>
+    <string name="lbl_eliminar">Eliminar</string>
+    <string name="lbl_cancelar">Cancelar</string>
+    <string name="lbl_confirmar">Confirmar</string>
+    <string name="lbl_seguimiento">Seguimiento</string>
+    <string name="lbl_nuevo_pedido">Nuevo pedido</string>
+    <string name="lbl_venta_dia">Ventas del día</string>
+    <string name="lbl_cerrar_sesion">Cerrar sesión</string>
+</resources>

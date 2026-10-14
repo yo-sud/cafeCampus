@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="naranja_primario">#EA580C</color>
+    <color name="naranja_claro">#FFEDD5</color>
+    <color name="naranja_fondo">#FFFBF7</color>
+    <color name="azul_primario">#4F46E5</color>
+    <color name="azul_claro">#E0E7FF</color>
+    <color name="azul_fondo">#F7F7FD</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="negro">#000000</color>
+</resources>
